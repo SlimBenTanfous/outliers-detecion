@@ -2,7 +2,7 @@
 title: "Different methods for outliers detection"
 author: "Slim Ben Tanfous"
 date: "18 octobre 2018"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
